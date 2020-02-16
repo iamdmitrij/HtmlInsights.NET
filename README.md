@@ -15,7 +15,7 @@ dotnet run --project ./src/HtmlInsights/HtmlInsights.csproj
 Input URI of a page
 ```
 Please input HTML URI:
-https://revelsystems.com/lt/
+https://github.com/
 ```
 Then you can run analysis on a given page.
 ```
